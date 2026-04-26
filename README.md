@@ -1,4 +1,4 @@
-# Projet_court_AIAO_M2_BI
+# Projet_AIAO: Deep Learning
 
 #### Yves YAMADJAKO
 
